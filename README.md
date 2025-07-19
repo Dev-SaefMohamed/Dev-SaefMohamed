@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Saef Mohamed!
+# 👋 I’m Saef Mohamed!
 
 💻 A business student turned passionate **Backend Developer** with a creative edge in **frontend tech**. I love building systems that are clean, efficient, and built to last. Whether it’s crafting APIs or managing databases, I’m always exploring new tools and frameworks that level up my skills.
 
