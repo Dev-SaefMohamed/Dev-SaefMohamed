@@ -10,19 +10,19 @@ Currently, I’m diving deep into the world of **.NET** to broaden my backend to
 
 Here's what I'm working with — and constantly sharpening:
 
-💬 Languages**  
+💬 Languages  
 JavaScript (ES6+), TypeScript, Python, C#, C++
 
-🎨 Frontend**  
+🎨 Frontend  
 React.js
 
-🧠 Backend**  
+🧠 Backend  
 Node.js, Express.js, .NET (in progress)
 
-🗄️ Databases**  
+🗄️ Databases  
 MongoDB, SQL
 
-🛠 Tools & Other Skills**  
+🛠 Tools & Other Skills  
 Git & GitHub, Postman, REST APIs, Prompt Engineering (ChatGPT, gemini)
 
 ---
