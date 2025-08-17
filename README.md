@@ -23,7 +23,7 @@ Databases
 MongoDB, SQL
 
 Tools & Other Skills  
-Git & GitHub, Postman, REST APIs, Prompt Engineering (ChatGPT, gemini)
+Git & GitHub, Postman, REST APIs
 
 ---
 
@@ -43,7 +43,7 @@ What I’m Learning Now
 
 ---
 
-Bonus Skill: Prompt Engineering
+Bonus Skill:
 
 I’m also experienced in **Prompt Engineering** — using tools like **ChatGPT, gemini** to streamline development & debug faster.
 ---
