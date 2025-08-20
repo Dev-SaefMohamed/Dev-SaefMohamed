@@ -6,23 +6,23 @@ Currently, I’m diving deep into the world of **.NET** to broaden my backend to
 
 ---
 
-Tech Stack
+[Teach stack]
 
 Here's what I'm working with — and constantly sharpening:
 
-Languages  
-JavaScript (ES6+), TypeScript, Python, C#, C++
+Languages:  
+(JS,TS) , Python, (C, C++, C#)
 
-Frontend  
+Frontend:  
 React.js
 
-Backend  
+Backend:  
 Node.js, Express.js, .NET (in progress)
 
-Databases  
-MongoDB, SQL
+Databases {RELATIONAL&NOrelational}:  
+mongo, SQL
 
-Tools & Other Skills  
+Tools: 
 Git & GitHub, Postman, REST APIs
 
 ---
