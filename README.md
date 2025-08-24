@@ -11,7 +11,7 @@ Currently, I’m diving deep into the world of **.NET** to broaden my backend to
 Here's what I'm working with — and constantly sharpening:
 
 Languages:  
-(JS,TS) , Python, (C, C++, C#)
+(JS,TS) , Python, (C++, C#)
 
 Frontend:  
 React.js
